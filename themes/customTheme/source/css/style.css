@@ -1,0 +1,27 @@
+.parallax-container{
+  background:  rgba(0, 0, 0, .5);
+  height: 400px;
+}
+.paralax-items{
+  text-align: center;
+  margin-top: 10%;
+  color: #FFF;
+}
+
+nav .nav-wrapper {
+  position: relative;
+  height: 100%;
+}
+nav .desktop-menu{
+  margin: 2px auto;
+  padding-left: 0;
+}
+nav .desktop-menu li{
+    position: relative;
+    height: 100%;
+}
+.card .card-image .card-title{
+  line-height: normal;
+  background-color: rgba(0,0,0,.5);
+  width: 100%; 
+}
